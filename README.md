@@ -1,2 +1,1 @@
-# youtube-clone
-just the front part
+is just the front
